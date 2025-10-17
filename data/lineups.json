@@ -6,7 +6,7 @@
     "player": "s1mple",
     "team": "Natus Vincere",
     "side": "T",
-    "description": "Flash r\u00e1pida para A default (rampa).",
+    "description": "Flash rápida para A default (rampa).",
     "video": "/exemplo-videos/flash_mirage_s1mple.mp4",
     "commands": "sv_cheats 1\nmp_roundtime_defuse 60\n// jumpthrow"
   },
